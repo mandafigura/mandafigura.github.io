@@ -59,6 +59,7 @@ figure {
 }
 
 figcaption {
+  display: table-caption;
   caption-side: bottom;
   padding: 0.5em;
   border: thin silver solid;
