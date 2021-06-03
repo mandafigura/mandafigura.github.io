@@ -42,6 +42,13 @@ ul.posts li {
     list-style: none;
 }
 
-img{
-   padding: 5px;
+figure {
+  float: left;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
 }
