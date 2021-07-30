@@ -64,3 +64,8 @@ figcaption {
 .myself{
  padding-bottom: 10em;   
 }
+
+.images{
+    display: flex;
+    justify-content: center;
+}
